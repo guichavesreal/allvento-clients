@@ -1,0 +1,34 @@
+{
+    "clients": [
+        {
+            "id": "",
+            "name": "",
+            "midname": "",
+            "surname": "",
+            "documentNumber": "",
+            "birthDate": "",
+            "address": [
+                {
+                    "id": "",
+                    "description": "",
+                    "city": "",
+                    "state": "",
+                    "zipCode": ""
+                }
+            ],
+            "phone": [
+                {
+                    "id": "",
+                    "number": "",
+                    "extension": ""
+                }
+            ],
+            "email": [
+                {
+                    "id": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
